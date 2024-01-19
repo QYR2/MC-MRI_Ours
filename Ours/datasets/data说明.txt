@@ -1,0 +1,4 @@
+FastMRI  ：  960 Brain
+
+train：val：test  = 768:96:96
+ 
